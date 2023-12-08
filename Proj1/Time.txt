@@ -1,0 +1,3 @@
+Small : 2.416
+Medium : 81.065
+Large : 1509.73 

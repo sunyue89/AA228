@@ -1,0 +1,13 @@
+Algorim, RunTime, Policy Score
+
+Small
+Value Iteration, 0.16[s], 27.127, Iter 10
+
+Medium
+Value Iteration, 64.62[s], 108.90, Iter 5645
+SARSA, 8.99[s], 62.37
+Q_learning, 10.41[s], 113.82
+
+Large
+SARSA, 68.05[s], 22.913
+Q_learning, 66.38[s], 319.81

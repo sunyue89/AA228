@@ -1,0 +1,20 @@
+strict digraph  {
+age;
+portembarked;
+fare;
+numparentschildren;
+passengerclass;
+sex;
+numsiblings;
+survived;
+age -> numparentschildren;
+age -> passengerclass;
+portembarked -> passengerclass;
+portembarked -> sex;
+fare -> passengerclass;
+numparentschildren -> sex;
+numparentschildren -> numsiblings;
+passengerclass -> sex;
+passengerclass -> survived;
+sex -> survived;
+}
